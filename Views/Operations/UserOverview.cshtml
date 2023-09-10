@@ -1,0 +1,37 @@
+﻿@model UserOverview
+
+<div>
+    <table >
+        <tr style="padding:5px">
+            <th style="padding:inherit">User</th>
+            <th style="padding:inherit">Email</th>
+            <th style="padding:inherit">Email Confirmed</th>
+            <th style="padding:inherit">Roles</th>
+            <th style="padding:inherit">Name</th>
+            <th style="padding:inherit">Action</th>
+        </tr>
+       
+@foreach (EditUser u in Model.Users) {
+    <tr style="padding:5px">
+    <td style="padding:inherit">@u.Name</td>
+    <td style="padding:inherit">@u.Email</td>
+    <td style="padding:inherit; text-align:center"> @(u.EmailConfirmed ? "X" : String.Empty)</td>
+    <td style="padding:inherit">
+        <select id="userroles" name="userroles">
+            <option>---List of Roles Assigned---</option>
+                            @foreach (string rlguid in u.RolesAssigned)
+                            {
+                                <option>@rlguid.ToString()</option>
+                            }
+        </select>
+    </td>
+    <td style="padding:inherit">@u.FirstName @u.LastName</td>
+    <td style="padding:inherit">
+       <a class="btn btn-primary" href="/Operations/Edit?user=@u.Name">Edit</a>
+       <a class="btn btn-primary" href="/Operations/Delete?user=@u.Name">Delete</a>
+    </td>
+    </tr> 
+}
+    </table>
+    <a class="btn btn-primary" href="/Operations/Create">Create User</a>
+</div>

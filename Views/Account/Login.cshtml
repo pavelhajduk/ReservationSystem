@@ -1,0 +1,30 @@
+﻿<h1 class="bg-info text-white">Login</h1>
+<div class="text-danger" asp-validation-summary="All"></div>
+
+<form method="post">
+    <div class="form-group">
+        <label>User Name</label>
+        <input name="username" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Password</label>
+        <input name="password" class="form-control" type="password"/> 
+    </div>
+    <button class="btn btn-primary" type="submit">Log In</button>
+</form>
+
+<div>
+    <a class="nav-link text-dark" asp-area="" asp-controller="Operations" asp-action="Create">Create User</a>
+</div>
+@if (ViewBag.ShowEmailConfirmationLink == true) {
+<div>
+        <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="EmailConfirmationLink" asp-route-username="@ViewBag.Username">Send email confirmation link</a>
+        
+</div>
+}
+@if (ViewBag.ShowPasswordResetLink == true)
+{
+    <div>
+        <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="PasswordResetLink" asp-route-username="@ViewBag.Username">ForgotPassword?</a>
+    </div>
+}

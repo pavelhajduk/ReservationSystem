@@ -1,0 +1,110 @@
+﻿@using IdentityMongo.Models
+@model EditUser
+
+<h1 class="bg-info text-white">Edit User</h1>
+<div asp-validation-summary="All" class="text-danger"></div>
+
+@if (ViewBag.Message != null)
+{
+    <div class="p-1 mb-2 bg-success text-white">@ViewBag.Message</div>
+}
+<form method="post">
+    <div class="form-group">
+        <input asp-for="Id" hidden class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Email"></label>
+        <input asp-for="Email" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="FirstName"></label>
+        <input asp-for="FirstName" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="LastName"></label>
+        <input asp-for="LastName" class="form-control" />
+    </div>
+
+    <!--   <div class="form-group">
+        <label asp-for="Password"></label>
+        <input asp-for="Password" class="form-control" />
+            </div>-->
+    <div class="form-group">
+        <label asp-for="EmailConfirmed">Email Confirmed</label>
+        <input asp-for="EmailConfirmed" class="form-control" />
+    </div>
+    <div class="form-group">
+        <table><th></th>
+            <tr>
+                <td>
+                    @Html.DropDownListFor(m => m.RolesAvailable, new SelectList(Model.RolesAvailable), "---Available Roles---")
+                </td>
+                <td>
+                    <!--buttons-->
+                    <table>
+                        <tr>
+                            <td><button type="button" id="addrole" class="btn btn-primary">>></button></td>
+                        </tr>
+                        <tr>
+                            <td><button type="button" id="removerole" class="btn btn-primary"><<</button></td>
+                        </tr>
+                    </table>
+                </td>
+                <td>
+                    @Html.DropDownListFor(m => m.RolesAssigned, new SelectList(Model.RolesAssigned), "---Assigned Roles----")
+                    <input asp-for="RolesAssignedSerial" hidden class="form-control" />
+                </td>
+            </tr>
+            <tr><td><br/></td></tr>
+        </table>
+        
+    </div>
+
+
+        <button type="submit" class="btn btn-primary">Save</button>
+    <a href = "/Operations/UserOverview" class="btn btn-primary">Cancel</a>
+</form>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+<script type="text/javascript">
+
+    $(document).ready(function () {
+        SerializeRolesAssignedDropdown();
+        
+        $('#addrole').click( function () {
+            var seltxt =   $('#RolesAvailable').find(':selected').text();
+            if (seltxt != null && seltxt != "") {
+                $('#RolesAssigned').append('<option>' + seltxt + '</option>');
+                $('#RolesAvailable').find(':selected').remove();
+                SerializeRolesAssignedDropdown();
+                let optJson = JSON.stringify(options);
+                $("#RolesAssignedSerial[value]").val(optJson);
+            }
+        });//#addrole.click
+        $('#removerole').click(function () {
+            var seltxt = $('#RolesAssigned').find(':selected').text();
+            if (seltxt != null && seltxt != "") {
+                $('#RolesAvailable').append('<option>' + seltxt + '</option>');
+                $('#RolesAssigned').find(':selected').remove();
+                SerializeRolesAssignedDropdown();
+            }
+        });//#removerole.click
+    })
+
+    function SerializeRolesAssignedDropdown() {
+        //serialize select list
+        var options = [];
+        $("#RolesAssigned option").each(function () {
+            var optval = $(this).text();
+            options.push(optval);
+        });
+        var OptionsFiltered = options.filter( o => !o.includes("--"));
+        let optJson = JSON.stringify(OptionsFiltered);
+        $("#RolesAssignedSerial[value]").val(optJson);
+    }
+
+</script>

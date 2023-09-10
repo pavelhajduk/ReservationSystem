@@ -1,0 +1,14 @@
+C:\DATA\Projects\samples\MongoBackend\MongoIdentity\obj\Debug\net6.0\PubTmp\Out\IdentityMongo.exe
+C:\DATA\Projects\samples\MongoBackend\MongoIdentity\obj\Debug\net6.0\PubTmp\Out\appsettings.Development.json
+C:\DATA\Projects\samples\MongoBackend\MongoIdentity\obj\Debug\net6.0\PubTmp\Out\appsettings.json
+C:\DATA\Projects\samples\MongoBackend\MongoIdentity\obj\Debug\net6.0\PubTmp\Out\IdentityMongo.dll
+C:\DATA\Projects\samples\MongoBackend\MongoIdentity\obj\Debug\net6.0\PubTmp\Out\IdentityMongo.deps.json
+C:\DATA\Projects\samples\MongoBackend\MongoIdentity\obj\Debug\net6.0\PubTmp\Out\IdentityMongo.runtimeconfig.json
+C:\DATA\Projects\samples\MongoBackend\MongoIdentity\obj\Debug\net6.0\PubTmp\Out\IdentityMongo.pdb
+C:\DATA\Projects\samples\MongoBackend\MongoIdentity\obj\Debug\net6.0\PubTmp\Out\AspNetCore.Identity.MongoDbCore.dll
+C:\DATA\Projects\samples\MongoBackend\MongoIdentity\obj\Debug\net6.0\PubTmp\Out\DnsClient.dll
+C:\DATA\Projects\samples\MongoBackend\MongoIdentity\obj\Debug\net6.0\PubTmp\Out\MongoDB.Bson.dll
+C:\DATA\Projects\samples\MongoBackend\MongoIdentity\obj\Debug\net6.0\PubTmp\Out\MongoDB.Driver.dll
+C:\DATA\Projects\samples\MongoBackend\MongoIdentity\obj\Debug\net6.0\PubTmp\Out\MongoDB.Driver.Core.dll
+C:\DATA\Projects\samples\MongoBackend\MongoIdentity\obj\Debug\net6.0\PubTmp\Out\MongoDbGenericRepository.dll
+C:\DATA\Projects\samples\MongoBackend\MongoIdentity\obj\Debug\net6.0\PubTmp\Out\SharpCompress.dll

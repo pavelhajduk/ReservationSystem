@@ -1,0 +1,30 @@
+﻿@model IList<ApplicationRole>
+
+<div>
+    <table>
+        <tr>
+            <th>
+                Role
+            </th>
+            <th>
+                Action
+            </th>
+        </tr>
+
+        @foreach (ApplicationRole r in Model)
+        {
+            <tr>
+                <td>
+                    @r.Name
+                </td>
+                <td>
+                    <a class="btn btn-primary" href="/Operations/DeleteRole?role=@r.Name">Delete</a>
+                </td>
+            </tr>
+        }
+
+
+    </table>
+
+    <a class="btn btn-primary" href="/Operations/CreateRole">Create Role</a>
+</div>

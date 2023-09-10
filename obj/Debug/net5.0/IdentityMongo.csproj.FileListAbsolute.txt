@@ -1,0 +1,107 @@
+E:\Yogesh\SEO\Yogihosting\new\Identity MongoDB\IdentityMongo\bin\Debug\net5.0\appsettings.Development.json
+E:\Yogesh\SEO\Yogihosting\new\Identity MongoDB\IdentityMongo\bin\Debug\net5.0\appsettings.json
+E:\Yogesh\SEO\Yogihosting\new\Identity MongoDB\IdentityMongo\bin\Debug\net5.0\IdentityMongo.exe
+E:\Yogesh\SEO\Yogihosting\new\Identity MongoDB\IdentityMongo\bin\Debug\net5.0\IdentityMongo.deps.json
+E:\Yogesh\SEO\Yogihosting\new\Identity MongoDB\IdentityMongo\bin\Debug\net5.0\IdentityMongo.runtimeconfig.json
+E:\Yogesh\SEO\Yogihosting\new\Identity MongoDB\IdentityMongo\bin\Debug\net5.0\IdentityMongo.runtimeconfig.dev.json
+E:\Yogesh\SEO\Yogihosting\new\Identity MongoDB\IdentityMongo\bin\Debug\net5.0\IdentityMongo.dll
+E:\Yogesh\SEO\Yogihosting\new\Identity MongoDB\IdentityMongo\bin\Debug\net5.0\ref\IdentityMongo.dll
+E:\Yogesh\SEO\Yogihosting\new\Identity MongoDB\IdentityMongo\bin\Debug\net5.0\IdentityMongo.pdb
+E:\Yogesh\SEO\Yogihosting\new\Identity MongoDB\IdentityMongo\bin\Debug\net5.0\IdentityMongo.Views.dll
+E:\Yogesh\SEO\Yogihosting\new\Identity MongoDB\IdentityMongo\bin\Debug\net5.0\IdentityMongo.Views.pdb
+E:\Yogesh\SEO\Yogihosting\new\Identity MongoDB\IdentityMongo\bin\Debug\net5.0\AspNetCore.Identity.MongoDbCore.dll
+E:\Yogesh\SEO\Yogihosting\new\Identity MongoDB\IdentityMongo\bin\Debug\net5.0\DnsClient.dll
+E:\Yogesh\SEO\Yogihosting\new\Identity MongoDB\IdentityMongo\bin\Debug\net5.0\MongoDB.Bson.dll
+E:\Yogesh\SEO\Yogihosting\new\Identity MongoDB\IdentityMongo\bin\Debug\net5.0\MongoDB.Driver.dll
+E:\Yogesh\SEO\Yogihosting\new\Identity MongoDB\IdentityMongo\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+E:\Yogesh\SEO\Yogihosting\new\Identity MongoDB\IdentityMongo\bin\Debug\net5.0\MongoDbGenericRepository.dll
+E:\Yogesh\SEO\Yogihosting\new\Identity MongoDB\IdentityMongo\bin\Debug\net5.0\SharpCompress.dll
+E:\Yogesh\SEO\Yogihosting\new\Identity MongoDB\IdentityMongo\obj\Debug\net5.0\IdentityMongo.csprojAssemblyReference.cache
+E:\Yogesh\SEO\Yogihosting\new\Identity MongoDB\IdentityMongo\obj\Debug\net5.0\IdentityMongo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Yogesh\SEO\Yogihosting\new\Identity MongoDB\IdentityMongo\obj\Debug\net5.0\IdentityMongo.AssemblyInfoInputs.cache
+E:\Yogesh\SEO\Yogihosting\new\Identity MongoDB\IdentityMongo\obj\Debug\net5.0\IdentityMongo.AssemblyInfo.cs
+E:\Yogesh\SEO\Yogihosting\new\Identity MongoDB\IdentityMongo\obj\Debug\net5.0\IdentityMongo.csproj.CoreCompileInputs.cache
+E:\Yogesh\SEO\Yogihosting\new\Identity MongoDB\IdentityMongo\obj\Debug\net5.0\IdentityMongo.MvcApplicationPartsAssemblyInfo.cache
+E:\Yogesh\SEO\Yogihosting\new\Identity MongoDB\IdentityMongo\obj\Debug\net5.0\IdentityMongo.RazorAssemblyInfo.cache
+E:\Yogesh\SEO\Yogihosting\new\Identity MongoDB\IdentityMongo\obj\Debug\net5.0\IdentityMongo.RazorAssemblyInfo.cs
+E:\Yogesh\SEO\Yogihosting\new\Identity MongoDB\IdentityMongo\obj\Debug\net5.0\staticwebassets\IdentityMongo.StaticWebAssets.Manifest.cache
+E:\Yogesh\SEO\Yogihosting\new\Identity MongoDB\IdentityMongo\obj\Debug\net5.0\staticwebassets\IdentityMongo.StaticWebAssets.xml
+E:\Yogesh\SEO\Yogihosting\new\Identity MongoDB\IdentityMongo\obj\Debug\net5.0\scopedcss\bundle\IdentityMongo.styles.css
+E:\Yogesh\SEO\Yogihosting\new\Identity MongoDB\IdentityMongo\obj\Debug\net5.0\IdentityMongo.TagHelpers.input.cache
+E:\Yogesh\SEO\Yogihosting\new\Identity MongoDB\IdentityMongo\obj\Debug\net5.0\IdentityMongo.TagHelpers.output.cache
+E:\Yogesh\SEO\Yogihosting\new\Identity MongoDB\IdentityMongo\obj\Debug\net5.0\IdentityMongo.RazorCoreGenerate.cache
+E:\Yogesh\SEO\Yogihosting\new\Identity MongoDB\IdentityMongo\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\Yogesh\SEO\Yogihosting\new\Identity MongoDB\IdentityMongo\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Yogesh\SEO\Yogihosting\new\Identity MongoDB\IdentityMongo\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Yogesh\SEO\Yogihosting\new\Identity MongoDB\IdentityMongo\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Yogesh\SEO\Yogihosting\new\Identity MongoDB\IdentityMongo\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Yogesh\SEO\Yogihosting\new\Identity MongoDB\IdentityMongo\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Yogesh\SEO\Yogihosting\new\Identity MongoDB\IdentityMongo\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Yogesh\SEO\Yogihosting\new\Identity MongoDB\IdentityMongo\obj\Debug\net5.0\IdentityMongo.RazorTargetAssemblyInfo.cache
+E:\Yogesh\SEO\Yogihosting\new\Identity MongoDB\IdentityMongo\obj\Debug\net5.0\IdentityMongo.RazorTargetAssemblyInfo.cs
+E:\Yogesh\SEO\Yogihosting\new\Identity MongoDB\IdentityMongo\obj\Debug\net5.0\IdentityMongo.Views.pdb
+E:\Yogesh\SEO\Yogihosting\new\Identity MongoDB\IdentityMongo\obj\Debug\net5.0\IdentityMongo.csproj.CopyComplete
+E:\Yogesh\SEO\Yogihosting\new\Identity MongoDB\IdentityMongo\obj\Debug\net5.0\IdentityMongo.dll
+E:\Yogesh\SEO\Yogihosting\new\Identity MongoDB\IdentityMongo\obj\Debug\net5.0\ref\IdentityMongo.dll
+E:\Yogesh\SEO\Yogihosting\new\Identity MongoDB\IdentityMongo\obj\Debug\net5.0\IdentityMongo.pdb
+E:\Yogesh\SEO\Yogihosting\new\Identity MongoDB\IdentityMongo\obj\Debug\net5.0\IdentityMongo.genruntimeconfig.cache
+E:\Yogesh\SEO\Yogihosting\new\Identity MongoDB\IdentityMongo\obj\Debug\net5.0\Razor\Views\Operations\Create.cshtml.g.cs
+E:\Yogesh\SEO\Yogihosting\new\Identity MongoDB\IdentityMongo\obj\Debug\net5.0\Razor\Views\Operations\CreateRole.cshtml.g.cs
+E:\Yogesh\SEO\Yogihosting\new\Identity MongoDB\IdentityMongo\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+E:\Yogesh\SEO\Yogihosting\new\Identity MongoDB\IdentityMongo\obj\Debug\net5.0\Razor\Views\Secured\Index.cshtml.g.cs
+C:\Users\hajduk\source\repos\ASP.NET-Core-Identity-with-MongoDB-as-Database\IdentityMongo\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\hajduk\source\repos\ASP.NET-Core-Identity-with-MongoDB-as-Database\IdentityMongo\bin\Debug\net5.0\appsettings.json
+C:\Users\hajduk\source\repos\ASP.NET-Core-Identity-with-MongoDB-as-Database\IdentityMongo\bin\Debug\net5.0\IdentityMongo.StaticWebAssets.xml
+C:\Users\hajduk\source\repos\ASP.NET-Core-Identity-with-MongoDB-as-Database\IdentityMongo\bin\Debug\net5.0\IdentityMongo.exe
+C:\Users\hajduk\source\repos\ASP.NET-Core-Identity-with-MongoDB-as-Database\IdentityMongo\bin\Debug\net5.0\IdentityMongo.deps.json
+C:\Users\hajduk\source\repos\ASP.NET-Core-Identity-with-MongoDB-as-Database\IdentityMongo\bin\Debug\net5.0\IdentityMongo.runtimeconfig.json
+C:\Users\hajduk\source\repos\ASP.NET-Core-Identity-with-MongoDB-as-Database\IdentityMongo\bin\Debug\net5.0\IdentityMongo.runtimeconfig.dev.json
+C:\Users\hajduk\source\repos\ASP.NET-Core-Identity-with-MongoDB-as-Database\IdentityMongo\bin\Debug\net5.0\IdentityMongo.dll
+C:\Users\hajduk\source\repos\ASP.NET-Core-Identity-with-MongoDB-as-Database\IdentityMongo\bin\Debug\net5.0\IdentityMongo.pdb
+C:\Users\hajduk\source\repos\ASP.NET-Core-Identity-with-MongoDB-as-Database\IdentityMongo\bin\Debug\net5.0\IdentityMongo.Views.dll
+C:\Users\hajduk\source\repos\ASP.NET-Core-Identity-with-MongoDB-as-Database\IdentityMongo\bin\Debug\net5.0\IdentityMongo.Views.pdb
+C:\Users\hajduk\source\repos\ASP.NET-Core-Identity-with-MongoDB-as-Database\IdentityMongo\bin\Debug\net5.0\AspNetCore.Identity.MongoDbCore.dll
+C:\Users\hajduk\source\repos\ASP.NET-Core-Identity-with-MongoDB-as-Database\IdentityMongo\bin\Debug\net5.0\DnsClient.dll
+C:\Users\hajduk\source\repos\ASP.NET-Core-Identity-with-MongoDB-as-Database\IdentityMongo\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\hajduk\source\repos\ASP.NET-Core-Identity-with-MongoDB-as-Database\IdentityMongo\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\hajduk\source\repos\ASP.NET-Core-Identity-with-MongoDB-as-Database\IdentityMongo\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\hajduk\source\repos\ASP.NET-Core-Identity-with-MongoDB-as-Database\IdentityMongo\bin\Debug\net5.0\MongoDbGenericRepository.dll
+C:\Users\hajduk\source\repos\ASP.NET-Core-Identity-with-MongoDB-as-Database\IdentityMongo\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\hajduk\source\repos\ASP.NET-Core-Identity-with-MongoDB-as-Database\IdentityMongo\obj\Debug\net5.0\IdentityMongo.csproj.AssemblyReference.cache
+C:\Users\hajduk\source\repos\ASP.NET-Core-Identity-with-MongoDB-as-Database\IdentityMongo\obj\Debug\net5.0\IdentityMongo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hajduk\source\repos\ASP.NET-Core-Identity-with-MongoDB-as-Database\IdentityMongo\obj\Debug\net5.0\IdentityMongo.AssemblyInfoInputs.cache
+C:\Users\hajduk\source\repos\ASP.NET-Core-Identity-with-MongoDB-as-Database\IdentityMongo\obj\Debug\net5.0\IdentityMongo.AssemblyInfo.cs
+C:\Users\hajduk\source\repos\ASP.NET-Core-Identity-with-MongoDB-as-Database\IdentityMongo\obj\Debug\net5.0\IdentityMongo.csproj.CoreCompileInputs.cache
+C:\Users\hajduk\source\repos\ASP.NET-Core-Identity-with-MongoDB-as-Database\IdentityMongo\obj\Debug\net5.0\IdentityMongo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hajduk\source\repos\ASP.NET-Core-Identity-with-MongoDB-as-Database\IdentityMongo\obj\Debug\net5.0\IdentityMongo.RazorAssemblyInfo.cache
+C:\Users\hajduk\source\repos\ASP.NET-Core-Identity-with-MongoDB-as-Database\IdentityMongo\obj\Debug\net5.0\IdentityMongo.RazorAssemblyInfo.cs
+C:\Users\hajduk\source\repos\ASP.NET-Core-Identity-with-MongoDB-as-Database\IdentityMongo\obj\Debug\net5.0\scopedcss\bundle\IdentityMongo.styles.css
+C:\Users\hajduk\source\repos\ASP.NET-Core-Identity-with-MongoDB-as-Database\IdentityMongo\obj\Debug\net5.0\staticwebassets\IdentityMongo.StaticWebAssets.Manifest.cache
+C:\Users\hajduk\source\repos\ASP.NET-Core-Identity-with-MongoDB-as-Database\IdentityMongo\obj\Debug\net5.0\staticwebassets\IdentityMongo.StaticWebAssets.Pack.cache
+C:\Users\hajduk\source\repos\ASP.NET-Core-Identity-with-MongoDB-as-Database\IdentityMongo\obj\Debug\net5.0\staticwebassets\msbuild.IdentityMongo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hajduk\source\repos\ASP.NET-Core-Identity-with-MongoDB-as-Database\IdentityMongo\obj\Debug\net5.0\staticwebassets\msbuild.build.IdentityMongo.props
+C:\Users\hajduk\source\repos\ASP.NET-Core-Identity-with-MongoDB-as-Database\IdentityMongo\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.IdentityMongo.props
+C:\Users\hajduk\source\repos\ASP.NET-Core-Identity-with-MongoDB-as-Database\IdentityMongo\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.IdentityMongo.props
+C:\Users\hajduk\source\repos\ASP.NET-Core-Identity-with-MongoDB-as-Database\IdentityMongo\obj\Debug\net5.0\IdentityMongo.TagHelpers.input.cache
+C:\Users\hajduk\source\repos\ASP.NET-Core-Identity-with-MongoDB-as-Database\IdentityMongo\obj\Debug\net5.0\IdentityMongo.TagHelpers.output.cache
+C:\Users\hajduk\source\repos\ASP.NET-Core-Identity-with-MongoDB-as-Database\IdentityMongo\obj\Debug\net5.0\IdentityMongo.RazorCoreGenerate.cache
+C:\Users\hajduk\source\repos\ASP.NET-Core-Identity-with-MongoDB-as-Database\IdentityMongo\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\hajduk\source\repos\ASP.NET-Core-Identity-with-MongoDB-as-Database\IdentityMongo\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\hajduk\source\repos\ASP.NET-Core-Identity-with-MongoDB-as-Database\IdentityMongo\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\hajduk\source\repos\ASP.NET-Core-Identity-with-MongoDB-as-Database\IdentityMongo\obj\Debug\net5.0\Razor\Views\Operations\Create.cshtml.g.cs
+C:\Users\hajduk\source\repos\ASP.NET-Core-Identity-with-MongoDB-as-Database\IdentityMongo\obj\Debug\net5.0\Razor\Views\Operations\CreateRole.cshtml.g.cs
+C:\Users\hajduk\source\repos\ASP.NET-Core-Identity-with-MongoDB-as-Database\IdentityMongo\obj\Debug\net5.0\Razor\Views\Secured\Index.cshtml.g.cs
+C:\Users\hajduk\source\repos\ASP.NET-Core-Identity-with-MongoDB-as-Database\IdentityMongo\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\hajduk\source\repos\ASP.NET-Core-Identity-with-MongoDB-as-Database\IdentityMongo\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\hajduk\source\repos\ASP.NET-Core-Identity-with-MongoDB-as-Database\IdentityMongo\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hajduk\source\repos\ASP.NET-Core-Identity-with-MongoDB-as-Database\IdentityMongo\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\hajduk\source\repos\ASP.NET-Core-Identity-with-MongoDB-as-Database\IdentityMongo\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\hajduk\source\repos\ASP.NET-Core-Identity-with-MongoDB-as-Database\IdentityMongo\obj\Debug\net5.0\IdentityMongo.RazorTargetAssemblyInfo.cache
+C:\Users\hajduk\source\repos\ASP.NET-Core-Identity-with-MongoDB-as-Database\IdentityMongo\obj\Debug\net5.0\IdentityMongo.RazorTargetAssemblyInfo.cs
+C:\Users\hajduk\source\repos\ASP.NET-Core-Identity-with-MongoDB-as-Database\IdentityMongo\obj\Debug\net5.0\IdentityMongo.Views.pdb
+C:\Users\hajduk\source\repos\ASP.NET-Core-Identity-with-MongoDB-as-Database\IdentityMongo\obj\Debug\net5.0\IdentityMongo.csproj.CopyComplete
+C:\Users\hajduk\source\repos\ASP.NET-Core-Identity-with-MongoDB-as-Database\IdentityMongo\obj\Debug\net5.0\IdentityMongo.dll
+C:\Users\hajduk\source\repos\ASP.NET-Core-Identity-with-MongoDB-as-Database\IdentityMongo\obj\Debug\net5.0\refint\IdentityMongo.dll
+C:\Users\hajduk\source\repos\ASP.NET-Core-Identity-with-MongoDB-as-Database\IdentityMongo\obj\Debug\net5.0\IdentityMongo.pdb
+C:\Users\hajduk\source\repos\ASP.NET-Core-Identity-with-MongoDB-as-Database\IdentityMongo\obj\Debug\net5.0\IdentityMongo.genruntimeconfig.cache
+C:\Users\hajduk\source\repos\ASP.NET-Core-Identity-with-MongoDB-as-Database\IdentityMongo\obj\Debug\net5.0\ref\IdentityMongo.dll

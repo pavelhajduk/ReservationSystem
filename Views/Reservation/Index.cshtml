@@ -1,0 +1,82 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model ReservationWindow
+@{
+}
+
+<div class="text-center">
+<form method="post">
+    <button name="button" type="submit" style="border:none" value="@Model.ArrowButtonValue(false)"><img src="~/images/backwards.png" width="50" height="50" /></button>
+    <button name="button" type="submit" style="border:none" value="@Model.ArrowButtonValue(true)"><img src="~/images/forwards.png" width="50" height="50" /></button>
+</form>
+    <div>
+        <p></p>
+        <p>@Model.Note</p>
+    </div>
+</div>
+<div class="text-center">@Model.GenerateGrid()</div>
+<div class ="text-center"><p><br/><br/></p></></div>
+<div class="text-center">
+    <form method="post">
+        <button name="button" type ="submit" style="border:none" value="@Model.ArrowButtonValue(false)"><img src="~/images/backwards.png" width="50" height="50" /></button>
+        <button name="button" type ="submit" style="border:none" value="@Model.ArrowButtonValue(true)"><img src="~/images/forwards.png" width="50" height="50" /></button>
+    </form>
+    <div>
+        <p></p>
+        <p>@Model.Note</p>
+    </div>
+</div>
+<div>
+    <p>
+        <br/>
+    </p>
+        <!--<p id="quicknote" style="height:20"></p>-->
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+<script type="text/javascript">
+    var ButtonTxt = "";
+    var Butt;
+    $(document).ready(function () {
+        $("button.btn-primary").on("mouseenter", function() {
+            ButtonTxt = $(this).attr("value");
+            Butt = $(this);
+            //$("#quicknote").text(ButtonTxt);
+            $.ajax({
+                type: "POST",
+                url: "/Reservation/AjaxUserData",
+                data: { ButtonText: ButtonTxt },
+                success: function (data) {
+                    Butt.attr("title", data.msg);
+                    $("#quicknote").text(data.msg);
+                },
+                error: function () {
+                    alert("Error occured!!")
+                }
+            });//ajax
+        });
+        $("button.btn-primary").on("mouseleave", function () {
+            $("#quicknote").text("");
+            
+        });
+        $("button.btn-primary").on("click", function() {
+            Butt = $(this);
+            ButtonTxt = $(this).attr("value");
+            $.ajax({
+                type: "POST",
+                url: "/Reservation/AjaxGridButtonSubmit",
+                data: { ButtonText: ButtonTxt },
+                success: function (data) {
+                    Butt.children("img").attr("src", data.msg);
+                },
+                error: function () {
+                    alert("Error occured!!")
+                }
+            });//ajax
+        });//onclick
+    });
+</script>
+
+
+

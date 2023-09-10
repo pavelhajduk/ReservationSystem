@@ -1,0 +1,30 @@
+﻿@model List<ReservationEdit>
+
+<div>
+    <table>
+        <tr>
+            <th>Date</th>
+            <th>User</th>
+            <th colspan="2">Place</th>
+            <th style="text-align:center">Action</th>
+        </tr>
+
+        @foreach (ReservationEdit r in Model)
+        {
+            <tr>
+                <td>@r.Reservation?.Date</td>
+                <td>@r.User?.FirstName @r.User.LastName</td>
+                <td>@r.Point?.Name</td>
+                <td></td>
+                <td>
+                    <form method="post" action="/Reservation/DeleteReservation">
+                        <button name="delres" type="submit" class="btn btn-primary" value="@r.Reservation?.Id">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </table>
+    <form method="post" action="/Reservation/Cleanup">
+        <button name="button" type="submit" class="btn btn-primary" value="Cleanup">Cleanup</button>
+    </form>
+</div>

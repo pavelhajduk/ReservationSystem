@@ -1,0 +1,24 @@
+﻿@model List<ReservationPoint>
+
+<div>
+    <table>
+        <tr>
+            <th>Place</th>
+            <th></th>
+            <th colspan="2" style="text-align: center">Action</th>
+            
+        </tr>
+
+        @foreach (ReservationPoint p in Model)
+        {
+            <tr>
+                <td>@p.Name</td>
+                <td></td>
+                
+                <td><a class="btn btn-primary" href="/Reservation/Edit?id=@p.Id">Edit</a></td>
+                <td><a class="btn btn-primary" href="/Reservation/Delete?id=@p.Id">Delete</a></td>
+            </tr>
+        }
+    </table>
+    <a class="btn btn-primary" href="/Reservation/Create">Create Site</a>
+</div>
