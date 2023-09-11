@@ -1,4 +1,4 @@
-﻿using IdentityMongo.Models;
+﻿using PSRes.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using System.Threading.Tasks;
@@ -12,9 +12,9 @@ using System.Runtime.Serialization.Json;
 using System.IO;
 using System.Text;
 using MimeKit.Encodings;
-using IdentityMongo.Services;
+using PSRes.Services;
 
-namespace IdentityMongo.Controllers
+namespace PSRes.Controllers
 {
     [Authorize(Roles = "ResAdmin")]
     public class OperationsController : Controller

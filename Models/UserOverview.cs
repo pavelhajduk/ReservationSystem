@@ -3,7 +3,7 @@
 //using System;
 using System.Collections.Generic;
 
-namespace IdentityMongo.Models
+namespace PSRes.Models
 {
     public class UserOverview
     {

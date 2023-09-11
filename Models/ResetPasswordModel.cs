@@ -1,5 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
-namespace IdentityMongo.Models
+namespace PSRes.Models
 {
     public class ResetPasswordModel
     {

@@ -1,5 +1,5 @@
-﻿using IdentityMongo.Models;
-using IdentityMongo.Interface;
+﻿using PSRes.Models;
+using PSRes.Interface;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
@@ -14,7 +14,7 @@ using Microsoft.Extensions.Options;
 using EllipticCurve.Utils;
 using Microsoft.AspNetCore.Html;
 
-namespace IdentityMongo.Controllers
+namespace PSRes.Controllers
 {
     public class AccountController : Controller
     {

@@ -14,7 +14,7 @@ using Microsoft.AspNetCore.Html;
 using Microsoft.AspNetCore.Mvc.Routing;
 using System.Text.RegularExpressions;
 
-namespace IdentityMongo.Models
+namespace PSRes.Models
 {
     public class ReservationPoint
     {

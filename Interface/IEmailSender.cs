@@ -1,6 +1,6 @@
 ﻿using System.Threading.Tasks;
 
-namespace IdentityMongo.Interface
+namespace PSRes.Interface
 {
     public interface IEmailSender
     {

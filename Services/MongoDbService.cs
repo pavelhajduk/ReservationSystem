@@ -1,4 +1,4 @@
-﻿using IdentityMongo.Models;
+﻿using PSRes.Models;
 using Microsoft.Extensions.Options;
 using MongoDB.Driver;
 using MongoDB.Bson;
@@ -11,11 +11,11 @@ using System.Collections.Immutable;
 using System.Linq;
 using Microsoft.VisualBasic;
 using System.ComponentModel;
-using IdentityMongo.Controllers;
+using PSRes.Controllers;
 using System.Drawing.Drawing2D;
 //using AspNetCore.Identity.MongoDbCore.Infrastructure;
 
-namespace IdentityMongo.Services
+namespace PSRes.Services
 {
 
 

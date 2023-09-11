@@ -1,19 +1,19 @@
-using IdentityMongo.Interface;
+using PSRes.Interface;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using System;
-using IdentityMongo.Settings;
-using IdentityMongo.Models;
+using PSRes.Settings;
+using PSRes.Models;
 //using Microsoft.AspNetCore.Identity.UI.Services;
-using IdentityMongo.Services;
+using PSRes.Services;
 using Microsoft.AspNetCore.Identity;
 using MongoDbGenericRepository;
 
 
-namespace IdentityMongo
+namespace PSRes
 {
     public class Startup
     {

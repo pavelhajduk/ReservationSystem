@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
-namespace IdentityMongo.Controllers
+namespace PSRes.Controllers
 {
     [Authorize]
     public class SecuredController : Controller

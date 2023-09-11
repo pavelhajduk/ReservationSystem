@@ -1,5 +1,5 @@
-﻿using IdentityMongo.Interface;
-using IdentityMongo.Models;
+﻿using PSRes.Interface;
+using PSRes.Models;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Options;
 using MimeKit;
@@ -13,7 +13,7 @@ using Newtonsoft.Json;
 using Microsoft.AspNetCore.Mvc;
 using MailKit.Net.Smtp;
 
-namespace IdentityMongo.Services
+namespace PSRes.Services
 {
     public class EmailSenderService : IEmailSender
     {

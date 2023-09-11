@@ -1,6 +1,6 @@
 using System;
 
-namespace IdentityMongo.Models
+namespace PSRes.Models
 {
     public class ErrorViewModel
     {

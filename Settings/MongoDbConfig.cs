@@ -1,7 +1,7 @@
 ﻿using MongoDB.Driver;
 using System;
 
-namespace IdentityMongo.Settings
+namespace PSRes.Settings
 {
     public class MongoDbConfig
     {

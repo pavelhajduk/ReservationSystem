@@ -1,4 +1,4 @@
-﻿namespace IdentityMongo.Models
+﻿namespace PSRes.Models
 {
     public class MongoDbSettings
     {

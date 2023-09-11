@@ -1,4 +1,4 @@
-﻿using IdentityMongo.Models;
+﻿using PSRes.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
-using IdentityMongo.Services;
+using PSRes.Services;
 using Microsoft.AspNetCore.Identity;
 using System.Security.Cryptography;
 using MongoDB.Driver;
@@ -15,7 +15,7 @@ using Microsoft.AspNetCore.Html;
 using Org.BouncyCastle.Bcpg;
 using Microsoft.AspNetCore.Authorization;
 
-namespace IdentityMongo.Controllers
+namespace PSRes.Controllers
 {
     public class ReservationController : Controller
     {
